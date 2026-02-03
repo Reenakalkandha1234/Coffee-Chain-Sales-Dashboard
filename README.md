@@ -1,5 +1,4 @@
-# Task-4-Elevate-labs-DATA-ANALYST-INTERNSHIP-
-# ☕ Coffee Chain Sales Dashboard – Task 4DA
+# ☕ Coffee Chain Sales Dashboard 
 
 ## 📌 Overview
 
