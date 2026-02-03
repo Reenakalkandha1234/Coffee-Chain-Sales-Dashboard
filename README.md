@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-This project is part of the **Data Analyst Internship - Task 4DA**, focused on designing an **interactive business dashboard** using real-world sales data.
+This project is  focused on designing an **interactive business dashboard** using real-world sales data.
 The dashboard was created using **Tableau** to help stakeholders monitor performance, identify trends, and make data-driven decisions.
 
 ---
